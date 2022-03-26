@@ -16,7 +16,7 @@ Pet Social Media App
 - **Category:** Photo/Video, Social
 - **Mobile:** Uses mobile device for camera
 - **Story:** A concetrated social media to show off people's pets and their pet's life
-- **Market:** Anyone with interest in phtography, and especially someone who have pets or love pets. It can be concetrated those people who want specific pets or breeds of a certain animal 
+- **Market:** Anyone with interest in photography, and especially someone who have pets or love pets. It can be concetrated those people who want specific pets or breeds of a certain animal 
 - **Habit:** User can share their pets' life throughout the day, and explore other pets in their neighborhood. All kinds of resources for pets can be useful.
 - **Scope:** This app should be a stripped down version of instagram but enhance one feature that specifically targets the need for a pet social media
 
