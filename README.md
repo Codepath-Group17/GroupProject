@@ -1,3 +1,6 @@
+Original App Design Project - README Template
+===
+
 # Pet
 
 ## Table of Contents
@@ -83,19 +86,29 @@ Pet Social Media App
 * Search Screen
     * Possibly a screen with nearby pets(users)
     * A Map to show the searching result
-## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+## Wireframes (this week) [example](https://github.com/codepath/me102_group_project_example/tree/master)
+![](https://i.imgur.com/a5f5FtT.png)
+
 
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
 
-## Schema 
+## Schema (this week) [example](https://github.com/codepath/me102_group_project_example/tree/master)
 [This section will be completed in Unit 9]
 ### Models
 [Add table of models]
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+[Add list of network requests by screen ]
+
+[Create basic snippets for each Parse network request]
+
+[OPTIONAL: List endpoints if using existing API such as Yelp]
+
+**Pet Breed API**
+- Base URL - https://animalbreedapi.herokuapp.com/api
+
+    | HTTP Verb | Endpoint | Description                |
+    | --------- | -------- | -------------------------- |
+    | `GET`     | /breeds  | get all the breeds of pets |
+    | `GET`     | /types   | get all the types of pets  |
